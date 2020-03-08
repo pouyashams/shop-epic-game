@@ -1,0 +1,25 @@
+{
+  "short_name": "EpicGame",
+  "name": "فروشگاه اپیک گیم",
+  "icons": [
+    {
+      "src": "epic-game-icon.jpeg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "epic-game-icon.jpeg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "epic-game-icon.jpeg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
